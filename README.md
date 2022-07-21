@@ -1,0 +1,4 @@
+- 👋 Olá, meu nome é Vinicius.
+- 👀 Me interesso por programação front-end
+- 🌱 No momento estou terminando um curso de HTML CSS E JAVASCRIPT
+- 📫 Contato : 16 9 97233772 (whatsapp) - https://www.linkedin.com/in/vinicius-caetano-538baa230/ linkedin
