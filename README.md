@@ -1,6 +1,8 @@
 ## 👋 Olá, meu nome é Vinicius.
 
-
+*{
+  background-color: #fff;
+}
 
 <div align="center">
   <a href="https://github.com/vinigdsc">
